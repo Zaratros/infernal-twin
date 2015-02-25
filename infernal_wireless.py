@@ -3,6 +3,7 @@ import os
 import time
 from subprocess import *
 from bs4 import BeautifulSoup
+__author__      = "khalilov aka entropy1337"
 print '*'*20
 print '*'*20
 print '''
