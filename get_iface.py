@@ -3,7 +3,7 @@ import socket
 import fcntl
 import struct
 import array
-
+__author__      = "khalilov aka entropy1337"
 def all_interfaces():
     is_64bits = sys.maxsize > 2**32
     struct_size = 40 if is_64bits else 32
