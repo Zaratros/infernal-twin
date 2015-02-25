@@ -1,5 +1,5 @@
 import MySQLdb
-
+__author__      = "khalilov aka entropy1337"
 print '*'*20
 print "Setting up the database\n"
 
